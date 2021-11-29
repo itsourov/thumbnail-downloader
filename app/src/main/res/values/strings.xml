@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Thumbnail Downloader for youtube</string>
+    <string name="youtube_thumbnail_downloader">Youtube Thumbnail Downloader</string>
+    <string name="enter_video_url">Enter Video Url:</string>
+    <string name="get_thumbnail">Get Thumbnail</string>
+    <string name="max_resolution_1080p">Max resolution (1080p)</string>
+    <string name="download">Download</string>
+    <string name="standard_quality_480p">Standard quality (480p)</string>
+    <string name="share_this_app">share This App</string>
+    <string name="privacy_policy_url">https://bongofix.com/privacy-policy</string>
+    <string name="share_text">Install this app from play store to Download thumbnail from youtube</string>
+</resources>

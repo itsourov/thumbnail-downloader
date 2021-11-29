@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#FF0505</color>
+    <color name="little_white_little_black">#eeeeee</color>
+    <color name="edit_text_background">#ffffff</color>
+    <color name="black_white">#000000</color>
+    <color name="white_black">#ffffff</color>
+    <color name="pink_green">#F700FF</color>
+    <color name="white_blue">#ffffff</color>
+    <color name="black_green">#000000</color>
+</resources>
